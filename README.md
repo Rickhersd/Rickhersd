@@ -1,16 +1,16 @@
 # Listo para Programar 👨‍💻
 
-Mi nommbres es Ricardo Sanchez y soy un desarrollador Web Full Stake, con un gran interes en   Desde los 15 años programo cuando me aprendí a profundidad a utilizar Unity. Durante mucho tiempo fue un hobby replicar funcionalidades. 
+Mi nombre es Ricardo Sánchez y soy un Desarrollador Web Full Stack en Venezuela. con un gran interes en desarrollar aspectos visuales altamente atrativos, asi como de generar soluciones eficientes y escalables del lado del Backend. Desde muy niño mostre interés en el mundo de la programación, y me inicié en éste a los 15 años cuando me aprendí por mi cuenta C# y logré profundidad junto a todo los concpetos que engloba la programacion Orientada A Objetos. Para entonces, era un hobby replicar funcionalides de videojuegos ya exisitentes en unity, y me entretenia leyendo la documentacn del Engine y creando mis propios Scripts.  
 
-En la actualidad mi enfoque no va hacia el desarrollo, sino hacia el desarrolllo web, en donde pretendo especializarme a durante los proximos que estyo estudiando Ingeniería en Informatia. No hay dia en el que no me siente a programar y a estudiar, y aunque muchos, yo disfruto diariamente pode, y mas si un 
+No obstante, en la actualidad mi enfoque no va dirigido hacia el Desarrollo de Videojuegos, sino hacia el Desarrollo Web, campo en el cual me voy a especializar durante los próximos años al tiempo que termino la carrera de Ingeniería en Informática. No hay día en el que no me siente a programar y a estudiar algo nuevo, y aunque muchos vean muy agotador y hasta agobiante pasar horas y horas analizando código, estoy muy agradecido por poder disfruto mucho poder hacerlo diaramente.
 
 ##### Algunos Datos Sobre Mí
 
-- 🔭 Estoy abierto a nuevas oportunidades laborales a jornada completo o proyectos freelancers, con interés en contruibuir tanto para el Frontend como para el Backend. No dudes en contactarme 😉
+- 🔭 Estoy abierto a nuevas oportunidades laborales a jornada completo o proyectos freelancers, con interés en contribuir tanto para el Frontend como para el Backend. Si quieres trabajar conmigo, no dudes en contactarme 😉
 
 - ☕ No hay día en el que no programe, y nada como estar inmerso en el código, con música y mucho café.
 
-- 🧮 Soy aficioando a las matemáticas y me gusta estudiarlas como Hobby, aunque suene muy extraño. Tras terminar pretendo, tengo como siguiente paso iniciarme en el Análisis de Datos con Python y librerías como Pandas, NumPy, Matplotlib, etc... 
+- 🧮 Soy aficionado a las matemáticas y las veo como un hobby, aunque suene extraño. No descarto en uno tiempo iniciarme en el Análisis de Datos con Python y librerías como Pandas, NumPy, Matplotlib, etc... 
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ricardosan-webdev/">
@@ -60,15 +60,23 @@ En la actualidad mi enfoque no va hacia el desarrollo, sino hacia el desarrolllo
 
 ## 📋 Sobre mis Proyectos
 
-Constantemente estoy pensando en futuros proyectos que me gustaría crear al tiempo que indico que tecnologi, por lo que tengo una lista larga de creaciones. Tengo la filosofia de solo crear proyectos grandes que incorporen un amplio número de funcionales, y hasta que no de por terminado un Proyecto, no abriré un nuevo respositoario.
+Constantemente estoy pensando en futuros proyectos que me gustaría y en nuevas tecnologias para estudiar, por lo que tengo una lista larga de proyectos a desarrollar. Tengo la filosofia de sólo crear proyectos grandes para mi repostorio de GitHub, y como requerimiento estos deben incorporar un amplio número de funcionales. Hasta que no doy por terminado un proyecto, no inicio uno nuevo y hasta un máximo de dos me permito trabajar a nivel personal.
 
-Actualemente cuento solo tres repositorios abiertos públicamente: mi portofolio personal, mi blog personal y mi aplicación NoteTaking.
+##### Actualmente cuento con tres repositorios públicos:
 
-- Mi portfolio personal: Ya está terminando, pero este es un proyecto que constantemente irá incorporando nuevas funcionales y aspectos visuales. Para más información: Porfolio.
+- Mi portfolio personal: ya está terminando, pero éste es un proyecto que constantemente irá incorporando nuevas funcionalidades y aspectos visuales. Para más detalle [Revisar README.md en el Repositorio](https://github.com/Rickhersd/My-Portfolio).
 
-- Mis dos proyectos: Mi blog personal y mi aplicacion Notetaking. Aunque estos están en desarrollo, están abiertos publicanmente y constantemente iré haciendo commits con actualizaciones. En cada repositorio hay disponible un README.md con las características principales del proyecto. Me gusta documentar todo lo que voy programado, ya que así aumento mi compromiso con lo que hago, y en este sentido, los README.md periódicamente los iré actualizando.
+- Mi Blog Personal y Aplicación Notetaking: aunque todavía siguen en desarrollo, ambos repositorios son públicos e iré haciendo commits con actualizaciones con constancia. En cada uno hay disponible un README.md con las características principales del proyecto. Me gusta documentar todo lo que voy programado, puesto que así aumento mi compromiso con lo que hago; en este sentido, los README.md periódicamente los reescribiré.
 
-Para poder administrar mi tiempo junto al que me demanda la universidad, los fines de semana me enfoco en el desarrollo de mi blog personal y profundizo en Laravel y PHP; y entresemana me enfoco en mi aplicación Notetaking y em mis deberes de la universidad. Es cansado, pero merece el esfuerzo...
+Para poder administrar mi tiempo junto al que me demanda la universidad, los fines de semana me enfoco en el desarrollo de mi blog personal y profundizo conceptos de PHP y Laravel; y de lunes a viernes me enfoco en mi aplicación Notetaking y em mis deberes de la universidad. Es cansado, pero merece el esfuerzo...
+
+##### Futuros Proyectos Personales:
+
+- Clone De CoinMarkerCap: incluirá las características mas imporantes de la Web Original, tanto a nivel visual como funcional. 
+- BigCode: Proyecto OpenSource que será una recopilación extensa de ejercicios de programación en diferentes lenguajes. Incluirá autenticación de usuarios y un playground para poder hacer las prácticas.
+- Aplicación de nanogramas: soy un aficionado a resolver nanogramas, por lo que crearé mi propia aplicacion y le incorporaré tantas funcionales hasta que la considere ideal para mi tiempos libres.
+
+Hasta ahora los proyectos anteriores son sólo ideas, pero posiblemente dejen de serlo.
 
 ## 📔 Roadmap de Estudio para el 2023
 
@@ -80,19 +88,19 @@ Para poder administrar mi tiempo junto al que me demanda la universidad, los fin
   EAT, SLEEP, CODE, REPEAT! 😄
 </p>
 
-El 2023 será un año de no parar y a lo largo de éste me enfocaré principalmente en tecnologías del lado del Backend. Tras terminar el desarrollo de mi Blog Personal y mi Clon De CoinMarketCap, los cuales estarán contruidos utilizando PHP y LARAVEL. Posterior a ello, haré un proyecto Web utilizando Java y Spreed. 
+El 2023 será un año de no parar y a lo largo de éste, me enfocaré principalmente en tecnologías del lado del Backend. Tras terminar el desarrollo de mi Blog Personal y mi Clone De CoinMarketCap, los cuales serán construidos utilizando PHP y LARAVEL. Posterior a estos, haré un proyecto Web utilizando Java y Spring. 
 
-Tras terminar mis proyectos con Java y PHP, iniciaré estudios en alguno de los siguientes lenguajes junto a sus:
+Luego de terminar mis proyectos con PHP y Java, abriré nuevos repositorios e iniciaré estudios en alguno de los siguientes grupos de tecnologías:
 
 - Python junto a Django y Flask.
 - Rust junto a Rocket.
 - Node.jS junto a Express.js.
 
-De igual manera, no descarto iniciarme en algún otro framework Del Frontend, como Angular.js, Svelt o Vue.js. 
+De igual manera, no descarto iniciarme en algún framework del Frontend: Angular.js, Svelte o Vue.js. 
 
-Mi método de estudio se basa principalemente en estar extensos lapsos de tiempo leyendo documentación, foros, guía, etc., a la par que programo haciendo uso de lo que voy investigando. Por ende, soy totalmente autodidacta y seguiré siéndolo. Un recurso que encuentro muy útil son los Roadmaps de la web [Roadmap.sh](https://roadmap.sh/) y por cada nuevo aprendizaje, obligatoriamente inicio un proyecto grande para poner en práctica lo aprendido intentando implementar un amplio número de tecnologías.
+Mi método de estudio se basa principalemente en estar extensos lapsos de tiempo leyendo documentación, foros, guías, etc., a la par que programo haciendo uso de lo que voy investigando. Por ende, soy totalmente autodidacta y seguiré siéndolo. Un recurso que cosidero muy útil son los Roadmaps de la web [Roadmap.sh](https://roadmap.sh/) y por cada nuevo aprendizaje, me obligo a iniciar un nuevo proyecto de gran tamaño para poner en práctica lo aprendido.
 
-## 🔥 Estadíscas
+## 🔥 Estadísticas
 
 <div align="center">
   
