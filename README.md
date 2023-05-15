@@ -17,16 +17,16 @@ Currently, I am a Computer Science student and focused solely on Web Development
 - 💻 My way of working is based on the SOLID Principles and CLEAN Code.
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ricardosan-webdev/">
+  <a href="https://www.linkedin.com/in/ricardosanchez-webdev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:Rickhersd2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>
-  <a href="https://rickhersd.github.io/Portfolio/cv/CV%20-%20Ricardo%20S%C3%A1nchez.pdf">
+  <a href="https://www.linkedin.com/in/ricardosanchez-webdev/overlay/1635526194034/single-media-viewer/?profileId=ACoAADy_tbEBqxeDnnYyoIctU8D_7LAgC2bxF_A">
     <img src="https://img.shields.io/badge/CV-brightgreen?style=for-the-badge" alt="Twitter Badge"/>
   </a>
-  <a href="https://rickhersd.github.io/Portfolio/">
+  <a href="https://personal-website-rickhersd.vercel.app/es">
     <img src="https://img.shields.io/badge/Porfolio%20Personal-informational?style=for-the-badge" alt="Twitter Badge"/>
   </a>
 </div>
