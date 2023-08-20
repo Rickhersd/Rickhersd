@@ -87,6 +87,12 @@ Desde que comencé he probado una gran variedad de lenguajes y tecnologías, y e
   <img src="./neobrutalist_icons/neo_seaborn.svg" title="Seaborn" alt="Seaborn" width="60" height="60"/>&nbsp;
   <img src="./neobrutalist_icons/neo_beautiful_soup.svg" title="Beautiful_soup" alt="Beautiful_soup" width="60" height="60"/>&nbsp;
   <img src="./neobrutalist_icons/neo_sklearn.svg" title="Sklearn" alt="Sklearn" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/apache-spark/neo-apache-spark.svg" title="Scipy" alt="Scipy" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/power-bi/neo-power-bi.svg" title="Scipy" alt="Scipy" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/vega-altair/neo-vega-altair.svg" title="Scipy" alt="Scipy" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/charts/neo-chart.svg" title="Scipy" alt="Scipy" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/streamlit/neo-streamlit.svg" title="Scipy" alt="Scipy" width="60" height="60"/>&nbsp;
+  
 </div>
 <br/>
 
