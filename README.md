@@ -88,12 +88,12 @@ Desde que comencé he probado una gran variedad de lenguajes y tecnologías, y e
   <img src="./neobrutalist_icons/neo_beautiful_soup.svg" title="Beautiful_soup" alt="Beautiful_soup" width="60" height="60"/>&nbsp;
   <img src="./neobrutalist_icons/neo_sklearn.svg" title="Sklearn" alt="Sklearn" width="60" height="60"/>&nbsp;
   <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/apache-spark/neo-apache-spark.svg" title="Scipy" alt="Scipy" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/power-bi/neo-power-bi.svg" title="Scipy" alt="Scipy" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/vega-altair/neo-vega-altair.svg" title="Scipy" alt="Scipy" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/charts/neo-chart.svg" title="Scipy" alt="Scipy" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/streamlit/neo-streamlit.svg" title="Scipy" alt="Scipy" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/power-bi/neo-power-bi.svg" title="Power-bi" alt="Power-bi" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/vega-altair/neo-vega-altair.svg" title="Vega-altair" alt="Vega-altair" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/charts/neo-chart.svg" title="Chartjs" alt="Chartjs" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/streamlit/neo-streamlit.svg" title="Streamlit" alt="Streamlit" width="60" height="60"/>&nbsp;
   
 </div>
 <br/>
 
-**_Nota: Los iconos son adaptaciones diseñadas por mí_**
+**_Nota: Los iconos son adaptaciones hechas por mí, y se encuentran disponibles en el siguiente [repositorio.](https://github.com/Rickhersd/neo-icons) Adelante si quieres usarlos, per no olvides dejar una estrellita_** 😉
