@@ -5,19 +5,19 @@ Mi nombre es Ricardo Sánchez y soy Programador Web y Analista de Datos. Desde m
 Actualmente estoy estudiando Ingienería en Informática y tengo conocimientos para el desarrollo web, especialmente del lado del frontend, y para el Análisis de Datos.
 
 <div align="center">
-  <a https='https://leetcode.com/Rickhersd/'>
+  <a href='https://leetcode.com/Rickhersd/'>
     <img  src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode"/>
   </a>
-  <a https='https://leetcode.com/Rickhersd/'>
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  <a href='https://www.hackerrank.com/Rickhersd2002'>
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a https='https://www.linkedin.com/in/ricardosanchez-dev/'>
+  <a href='https://www.linkedin.com/in/ricardosanchez-dev/'>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="Linkedin"/>
   </a>
-  <a https='mailto:rickhersd2002@gmail.com'>
+  <a href='mailto:rickhersd2002@gmail.com'>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a https="https://wa.me/584120260569?text=Hola,%20Ricardo">
+  <a href="https://wa.me/584120260569?text=Hola,%20Ricardo">
     <img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
 </div>
@@ -96,4 +96,4 @@ Desde que comencé he probado una gran variedad de lenguajes y tecnologías, y e
 </div>
 <br/>
 
-**_Nota: Los iconos son adaptaciones hechas por mí, y se encuentran disponibles en el siguiente [repositorio.](https://github.com/Rickhersd/neo-icons) Adelante si quieres usarlos, per no olvides dejar una estrellita_** 😉
+**_Nota: Los iconos son adaptaciones hechas por mí, y se encuentran disponibles en el siguiente [repositorio.](https://github.com/Rickhersd/neo-icons) Adelante si quieres usarlos, pero no olvides dejar una estrellita_** 😉
