@@ -24,7 +24,6 @@ Actualmente estoy estudiando Ingienería en Informática y tengo conocimientos p
 
 ### Algunos Datos Extras sobre mí
 
-- 😆 No me gusta PHP!
 - ☕ Programo de lunes a lunes y nunca falta una buena taza de Café!
 - 🧮 Me encanta la matemática y la estadística, y por eso me encanta el análisis de datos!
 - 💻 Los principios SOLID y Clean Code nunca faltan cuando programo!
