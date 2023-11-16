@@ -33,7 +33,7 @@ Actualmente estoy estudiando Ingienería en Informática y tengo conocimientos p
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rickhersd&theme=dark&border_radius=5&locale=es)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rickhersd)](https://github.com/Rickhersd/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-rickhersd.vercel.app/api?username=Rickhersd&theme=dark&border_radius=5&locale=es)](https://github.com/Rickhersd/github-readme-stats)
 
 ## ⚒️ Skillset
 
