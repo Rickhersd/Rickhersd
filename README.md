@@ -1,8 +1,16 @@
-# Hello There!
+Me llamo Ricardo Sánchez y soy Desarrollador Fullstack.
 
-Mi nombre es Ricardo Sánchez y soy Desarrollador Fullstack y actualmente Jefe de Desarrollo en BetSOL, una banca de loteria en Venezuela. Desde muy joven, siempre tuve un gran interés por el mundo de la programación y el desarrollo de software; por lo que a los quince años, en 2018, decidí aprender por mi cuenta C# para crear mis propios videojuegos utilizado Unity. Aunque no logré crear uno por tener ideas muy ambiciosas, durante ese tiempo aprendí mucho sobre programación y con el tiempo decidí estudiar tencologías del deasrrollo web, como HTML, CSS, MYSQL, Javascript, PHP..., y cuando comencé la universidad en 2022, decidí abrirme camino en el mundo profesional.
+### Como empecé
 
-Actualmente trabajo como jefe encaminando el desarrollo de múltiples aplicaciones de back y front, usando principalmenente servidores de backend con python, y react y nextjs para el Frontend. Trabajo con FastApi, Flask, Postgress, React, Nextjs, Dockers, y muchas librerias de python y muchas librerías de typescript que no nombro porque la lista sería muy larga. 
+Desde joven tuve un gran interés por el mundo de la programación y el desarrollo de software; por lo que a los quince años decidí aprender por mi cuenta C# para crear mis propios videojuegos utilizado Unity. Durante aquel tiempo no logré crear uno por tener ideas muy ambiciosas, pero aprendí mucho sobre programación y con el tiempo decidí estudiar tencologías del deasrrollo web, como HTML, CSS, MYSQL, Javascript, PHP.... Años después comencé la universidad cursando ingeniería en informatica y decidí abrirme camino en el mundo profesional.
+
+### Actualidad
+
+Trabajo en una banca de lotería como jefe de desarrollo encaminando múltiples aplicaciones de back y front, usando python para backend, y react y nextjs para el Frontend. Trabajo con FastApi, Flask, Postgress, React, Nextjs, Docker, React Native, etc.. He trabajado con multiples librerías del ecosistéma de React y Vue, he desarrollado aplicaciones para android con react native y he desarrollado servicios de backend bajo los protocolos https, gRPC y websockets.
+
+En mis tiempos libres estudio Rust, y estoy enfocado en el desarrollo de compiladores y servidores de alto rendimiento. 
+
+
 
 <div align="center">
   <a href='https://leetcode.com/Rickhersd/'>
@@ -22,12 +30,6 @@ Actualmente trabajo como jefe encaminando el desarrollo de múltiples aplicacion
   </a>
 </div>
 
-# Algunos datos sobre mi
-
-- ☕ Programo de lunes a lunes y nunca falta una buena taza de Café.
-- 💻 Los principios SOLID y Clean Code nunca faltan cuando programo.
-- Me encata Rust, y no se programar en Rust. La falta de tiempo no me deja.
-- Le CTE Recursive son mi día a día cuando trabajo en el back y son la mejor feature que alguna vez ha tenido SQL
 
 <br/>
 
