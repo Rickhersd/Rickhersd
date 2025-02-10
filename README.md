@@ -1,14 +1,10 @@
-Me llamo Ricardo Sánchez y soy Desarrollador Fullstack.
+My name is Ricardo Sánchez, and I am a Fullstack Developer.
 
-### Como empecé
+From a young age, I had a strong interest in the world of programming and software development. At the age of fifteen, I decided to teach myself C# to create my own video games using Unity. During that time, I didn’t manage to create a game due to having overly ambitious ideas, but I learned a lot about programming. Over time, I decided to study web development technologies such as HTML, CSS, MySQL, JavaScript, and PHP. Years later, I started university, pursuing a degree in computer engineering, and decided to make my way into the professional world.
 
-Desde joven tuve un gran interés por el mundo de la programación y el desarrollo de software; por lo que a los quince años decidí aprender por mi cuenta C# para crear mis propios videojuegos utilizado Unity. Durante aquel tiempo no logré crear uno por tener ideas muy ambiciosas, pero aprendí mucho sobre programación y con el tiempo decidí estudiar tencologías del deasrrollo web, como HTML, CSS, MYSQL, Javascript, PHP.... Años después comencé la universidad cursando ingeniería en informatica y decidí abrirme camino en el mundo profesional.
+I currently work at a lottery bank as the head of development, leading multiple backend and frontend applications. I use Python for backend development and React and Next.js for the frontend. I work with technologies such as FastAPI, Flask, PostgreSQL, React, Next.js, Docker, and React Native, among others. I have worked with multiple libraries in the React and Vue ecosystems, developed Android applications with React Native, and built backend services using protocols like HTTPS, gRPC, and WebSockets.
 
-### Actualidad
-
-Trabajo en una banca de lotería como jefe de desarrollo encaminando múltiples aplicaciones de back y front, usando python para backend, y react y nextjs para el Frontend. Trabajo con FastApi, Flask, Postgress, React, Nextjs, Docker, React Native, etc.. He trabajado con multiples librerías del ecosistéma de React y Vue, he desarrollado aplicaciones para android con react native y he desarrollado servicios de backend bajo los protocolos https, gRPC y websockets.
-
-En mis tiempos libres estudio Rust, y estoy enfocado en el desarrollo de compiladores y servidores de alto rendimiento. 
+In my free time, I study Rust and am focused on developing compilers and high-performance servers.
 
 
 
