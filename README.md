@@ -31,5 +31,5 @@ In my free time, I study Rust and am focused on developing compilers and high-pe
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rickhersd&theme=dark&border_radius=5&locale=es)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats-rickhersd.vercel.app/api?username=Rickhersd&theme=dark&border_radius=5&locale=es)](https://github.com/Rickhersd/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-steel-mu.vercel.app/api?username=Rickhersd&include_all_commits=true&theme=dark&border_radius=5&locale=es)](https://github.com/Rickhersd/github-readme-stats)
 
