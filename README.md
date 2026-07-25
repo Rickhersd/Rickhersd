@@ -21,9 +21,6 @@ In my free time, I study Rust and am focused on developing compilers and high-pe
   <a href='mailto:rickhersd2002@gmail.com'>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://wa.me/584120260569?text=Hola,%20Ricardo">
-    <img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
-  </a>
 </div>
 
 
